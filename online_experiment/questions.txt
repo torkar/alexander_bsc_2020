@@ -1,0 +1,26 @@
+Introduction:
+This is a survey on understanding code. You will be presented with an image of some code and it's output. 
+There are however some problems with the code and it is your task to find these problems and report them. 
+The time it takes to do the survey will be recorded so your main focus should be on the question containing the code. 
+Please do not spend too much time on the other questions. 
+
+Step1: 
+Questions: How many years of experience do you have in programming? Please answer with numbers.
+
+Step2:
+Shows randomized version of the code.
+
+step3: 
+Shows the incorrect output of the code
+
+Step4: 
+Question: On which line did you find the source of the wrong output? If you did not find the source enter 0.
+
+Step5: 
+Questions: What is the purpose of the code?
+
+Step6:
+Question: If there are any redundancies in the code, please describe them briefly 
+
+Step7: 
+Question: Did you use any particular technique to understand the code? Please describe briefly.
